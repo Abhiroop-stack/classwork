@@ -1,0 +1,29 @@
+
+.header{
+   display: flex;
+   justify-content:space-between;
+   border:solid;
+}
+.menu{
+    color:brown;
+    
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.block{
+    display: flex;
+    justify-content:end;
+    
+}
+h1{
+    color:chartreuse;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
